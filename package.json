@@ -9,7 +9,7 @@
   },
   "description": "Cypress end-to-end test automation boilerplate. Using ES Modules, Chai and Should.",
   "devDependencies": {
-    "eslint": "7.32.0",
+    "eslint": "9.18.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-cypress": "2.12.1",
